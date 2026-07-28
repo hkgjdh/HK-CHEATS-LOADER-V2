@@ -4,13 +4,5 @@
     "message": "New version available! Please update to continue.",
     "blocked_loaders": [
     
-    ],
-    "force_update": false,
-    "maintenance_mode": false,
-    "banner_url": "https://example.com/banner.png",
-    "changelog": [
-        "Fixed stability issues",
-        "Added new features",
-        "Improved performance"
     ]
 }
