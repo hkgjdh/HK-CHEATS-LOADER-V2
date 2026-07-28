@@ -2,7 +2,7 @@
     "version": "1.1",
     "title": "Loader Update",
     "message": "New version available! Please update to continue.",
-    "blocked_loaders": [
-    
-    ]
+    "blocked_loaders": [],
+    "maintenance_mode": false,
+    "maintenance_message": "Server is under maintenance. Please try again later."
 }
