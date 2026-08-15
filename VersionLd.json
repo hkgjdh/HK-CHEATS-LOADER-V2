@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "url": "",
+
+  "pubgm": false,
+  "bgmi": true,
+  "korea": false,
+
+  "pubgm_msg": "PUBG GL Paid Version Buy Now",
+  "bgmi_msg": "SEVER MAINTENANCE",
+  "korea_msg": "KOREA Paid Version Buy Now",
+
+  "pubgm_obb_url": "",
+  "bgmi_obb_url": "",
+  "korea_obb_url": ""
+}
