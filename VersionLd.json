@@ -5,10 +5,12 @@
   "pubgm": false,
   "bgmi": true,
   "korea": false,
-
+  "sign_sha256": "d63a2e0a709cf82cbb54a72fe5a046e91e1ec4c591765f4cdf56efce8dbe82fe",
+  
   "pubgm_msg": "PUBG GL Paid Version Buy Now",
   "bgmi_msg": "SEVER MAINTENANCE",
   "korea_msg": "KOREA Paid Version Buy Now",
+  "sign_msg": "Chala Ja Bhosdike",
 
   "pubgm_obb_url": "",
   "bgmi_obb_url": "",
