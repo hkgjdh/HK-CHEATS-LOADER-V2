@@ -2,7 +2,7 @@
   "loaders": [
     {
       "name": "DUNE_CHEATS",
-      "displayName": "DUNE LOADER ONLINE",
+      "displayName": "DUNE LOADER",
       "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
       "ui1": true,
