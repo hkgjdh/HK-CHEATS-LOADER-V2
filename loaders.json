@@ -13,11 +13,11 @@
       "ui6": false,
       "textColor": [1.0, 1.0, 0.0],
       "expireColor": [0.0, 0.75, 1.0],
-      "textX": 600.0,
-      "textY": 672.0,
+      "textX": 0.0,
+      "textY": 120.0,
       "expireX": -610.0,
       "expireY": 672.0,
-      "textSize": 13,
+      "textSize": 18,
       "expireSize": 13
     },
     {
