@@ -5,7 +5,7 @@
       "displayName": "DUNE LOADER",
       "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
-      "ui1": false, "ui2": false, "ui3": true, "ui4": false,
+      "ui1": true, "ui2": false, "ui3": false, "ui4": false,
       "ui5": false, "ui6": false, "ui7": false, "ui8": false, "ui9": false, "ui10": false,
       "textColor":   [255, 255, 0, 255],
       "expireColor": [0, 255, 0, 255],
