@@ -9,8 +9,8 @@
       "ui5": false, "ui6": false, "ui7": false, "ui8": false, "ui9": false, "ui10": false,
       "textColor":   [255, 255, 0, 255],
       "expireColor": [0, 255, 0, 255],
-      "textX": 720,   "textY": 668,
-      "expireX": -530, "expireY": 668,
+      "textX": 690,   "textY": 668,
+      "expireX": -540, "expireY": 668,
       "textSize": 24, "expireSize": 24
     },
     {
