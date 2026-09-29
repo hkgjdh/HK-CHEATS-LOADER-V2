@@ -9,8 +9,8 @@
       "ui5": false, "ui6": false, "ui7": false, "ui8": false, "ui9": false, "ui10": false,
       "textColor":   [255, 255, 0, 255],
       "expireColor": [0, 255, 0, 255],
-      "textX": 615,   "textY": 668,
-      "expireX": -630, "expireY": 668,
+      "textX": 660,   "textY": 668,
+      "expireX": -560, "expireY": 668,
       "textSize": 24, "expireSize": 24
     },
     {
@@ -22,8 +22,8 @@
       "ui5": false, "ui6": false, "ui7": false, "ui8": false, "ui9": false, "ui10": false,
       "textColor":   [255, 255, 0, 255],
       "expireColor": [0, 255, 0, 255],
-      "textX": 630,   "textY": 668,
-      "expireX": -640, "expireY": 668,
+     "textX": 670,   "textY": 668,
+      "expireX": -550, "expireY": 668,
       "textSize": 24, "expireSize": 24
     },
     {
@@ -35,8 +35,8 @@
       "ui5": false, "ui6": false, "ui7": false, "ui8": false, "ui9": false, "ui10": false,
       "textColor":   [255, 255, 0, 255],
       "expireColor": [0, 255, 0, 255],
-      "textX": 590,   "textY": 668,
-      "expireX": -590, "expireY": 668,
+     "textX": 680,   "textY": 668,
+      "expireX": -540, "expireY": 668,
       "textSize": 24, "expireSize": 24
     },
     {
