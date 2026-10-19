@@ -37,7 +37,7 @@
       "displayName": "JALBAADMIN",
       "apiUrl": "https://api.xvipserver.site/vip/connect",
       "pinnedKey": "",
-      "espStyle": 1,
+      "espStyle": 4,
       "counterStyle": 7,
       "textColor": [0, 255, 0, 255],
       "expireColor": [255, 255, 0, 255],
