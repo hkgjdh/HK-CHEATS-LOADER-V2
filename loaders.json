@@ -5,52 +5,104 @@
       "displayName": "DUNE LOADER",
       "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
-      "ui1": true, "ui2": false, "ui3": false, "ui4": false,
-      "ui5": false, "ui6": false, "ui7": false, "ui8": false, "ui9": false, "ui10": false,
-      "textColor":   [255, 255, 0, 255],
-      "expireColor": [0, 255, 0, 255],
-      "textX": 690,   "textY": 668,
-      "expireX": -540, "expireY": 668,
-      "textSize": 24, "expireSize": 24
+      "espStyle": 1,
+      "counterStyle": 1,
+      "textColor": [
+        255,
+        255,
+        0,
+        255
+      ],
+      "expireColor": [
+        0,
+        255,
+        0,
+        255
+      ],
+      "textX": 690,
+      "textY": 668,
+      "expireX": -540,
+      "expireY": 668,
+      "textSize": 24,
+      "expireSize": 24
     },
     {
       "name": "BRUTAL",
       "displayName": "DUNE LOADER v1",
       "apiUrl": "https://api.ezkeys.online/Nayak/connect",
-     "pinnedKey": "",
-      "ui1": true, "ui2": false, "ui3": false, "ui4": false,
-      "ui5": false, "ui6": false, "ui7": false, "ui8": false, "ui9": false, "ui10": false,
-      "textColor":   [255, 255, 0, 255],
-      "expireColor": [0, 255, 0, 255],
-     "textX": 700,   "textY": 668,
-      "expireX": -520, "expireY": 668,
-      "textSize": 24, "expireSize": 24
+      "pinnedKey": "",
+      "espStyle": 2,
+      "counterStyle": 1,
+      "textColor": [
+        255,
+        255,
+        0,
+        255
+      ],
+      "expireColor": [
+        0,
+        255,
+        0,
+        255
+      ],
+      "textX": 700,
+      "textY": 668,
+      "expireX": -520,
+      "expireY": 668,
+      "textSize": 24,
+      "expireSize": 24
     },
     {
       "name": "CROZN",
       "displayName": "DUNE LOADER v2",
       "apiUrl": "https://crozn-loader.se-ai.xyz/connect",
-     "pinnedKey": "",
-      "ui1": true, "ui2": false, "ui3": false, "ui4": false,
-      "ui5": false, "ui6": false, "ui7": false, "ui8": false, "ui9": false, "ui10": false,
-      "textColor":   [255, 255, 0, 255],
-      "expireColor": [0, 255, 0, 255],
-     "textX": 710,   "textY": 668,
-      "expireX": -510, "expireY": 668,
-      "textSize": 24, "expireSize": 24
+      "pinnedKey": "",
+      "espStyle": 3,
+      "counterStyle": 1,
+      "textColor": [
+        255,
+        255,
+        0,
+        255
+      ],
+      "expireColor": [
+        0,
+        255,
+        0,
+        255
+      ],
+      "textX": 710,
+      "textY": 668,
+      "expireX": -510,
+      "expireY": 668,
+      "textSize": 24,
+      "expireSize": 24
     },
     {
       "name": "JALBAADMIN",
       "displayName": "JALBAADMIN",
       "apiUrl": "https://api.xvipserver.site/vip/connect",
       "pinnedKey": "",
-      "ui1": false, "ui2": false, "ui3": true, "ui4": false,
-      "ui5": false, "ui6": false, "ui7": false, "ui8": false, "ui9": false, "ui10": false,
-      "textColor":   [0, 255, 0, 255],
-      "expireColor": [255, 255, 0, 255],
-      "textX": 0, "textY": 155,
-      "expireX": 0, "expireY": 130,
-      "textSize": 24, "expireSize": 24
+      "espStyle": 1,
+      "counterStyle": 3,
+      "textColor": [
+        0,
+        255,
+        0,
+        255
+      ],
+      "expireColor": [
+        255,
+        255,
+        0,
+        255
+      ],
+      "textX": 0,
+      "textY": 155,
+      "expireX": 0,
+      "expireY": 130,
+      "textSize": 24,
+      "expireSize": 24
     }
   ]
 }
