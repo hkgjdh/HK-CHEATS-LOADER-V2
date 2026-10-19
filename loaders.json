@@ -32,7 +32,7 @@
       "textSize": 18,
       "expireSize": 18
     }
-    {
+    ,{
       "name": "JALBAADMIN",
       "displayName": "JALBAADMIN",
       "apiUrl": "https://api.xvipserver.site/vip/connect",
