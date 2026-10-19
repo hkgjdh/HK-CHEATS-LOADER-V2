@@ -16,22 +16,22 @@
       "expireColor": [
         0,
         255,
-        0,
+        255,
         255
       ],
       "textX": 690,
       "textY": 668,
       "expireX": -540,
       "expireY": 668,
-      "textSize": 24,
-      "expireSize": 24
+      "textSize": 18,
+      "expireSize": 18
     },
     {
       "name": "BRUTAL",
       "displayName": "DUNE LOADER v1",
       "apiUrl": "https://api.ezkeys.online/Nayak/connect",
       "pinnedKey": "",
-      "espStyle": 2,
+      "espStyle": 1,
       "counterStyle": 1,
       "textColor": [
         255,
@@ -49,15 +49,15 @@
       "textY": 668,
       "expireX": -520,
       "expireY": 668,
-      "textSize": 24,
-      "expireSize": 24
+      "textSize": 18,
+      "expireSize": 18
     },
     {
       "name": "CROZN",
       "displayName": "DUNE LOADER v2",
       "apiUrl": "https://crozn-loader.se-ai.xyz/connect",
       "pinnedKey": "",
-      "espStyle": 3,
+      "espStyle": 1,
       "counterStyle": 1,
       "textColor": [
         255,
@@ -75,8 +75,8 @@
       "textY": 668,
       "expireX": -510,
       "expireY": 668,
-      "textSize": 24,
-      "expireSize": 24
+      "textSize": 18,
+      "expireSize": 18
     },
     {
       "name": "JALBAADMIN",
@@ -101,8 +101,8 @@
       "textY": 155,
       "expireX": 0,
       "expireY": 130,
-      "textSize": 24,
-      "expireSize": 24
+      "textSize": 18,
+      "expireSize": 18
     }
   ]
 }
